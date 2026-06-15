@@ -13,6 +13,9 @@ dependencies = ["pyyaml>=6.0"]
 [project.optional-dependencies]
 nl2uri = ["nl2uri"]
 
+[tool.uv.sources]
+nl2uri = { path = "../nl2uri", editable = true }
+
 [project.scripts]
 uri2voice = "uri2voice.cli:main"
 
