@@ -42,6 +42,18 @@ touri call stt://mock/transcribe \
 
 See [`examples/21_touri_voice/`](../../examples/21_touri_voice/) and [`docs/VOICE_WITH_TOURI.md`](../../docs/VOICE_WITH_TOURI.md).
 
+## Install
+
+```bash
+pip install -e .
+```
+
+## Links
+
+- [TODO](TODO.md)
+- [touri](../touri)
+- Org status: [`../TODO_STATUS.md`](../TODO_STATUS.md)
+
 
 ## License
 
